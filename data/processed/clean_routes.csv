@@ -1,0 +1,7 @@
+route_id,route_name,route_distance_km
+R001,Pune-Mumbai,150
+R002,Pune-Nashik,210
+R003,Mumbai-Surat,285
+R004,Pune-Nagpur,720
+R005,Mumbai-Goa,590
+R006,Nashik-Aurangabad,185

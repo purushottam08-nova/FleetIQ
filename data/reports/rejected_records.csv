@@ -1,0 +1,5 @@
+source_table,record_id,issue,decision
+trips,T001004,incomplete_trip,excluded_from_analytics_pending_verification
+trips,T001004,trip_not_completed,excluded_from_analytics_pending_verification
+trips,T002006,odometer_reversal_within_trip,excluded_from_analytics_pending_verification
+fuel_transactions,REC001002,duplicate_receipt,duplicate_excluded

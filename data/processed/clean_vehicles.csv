@@ -1,0 +1,16 @@
+vehicle_id,registration_no,vehicle_type,fuel_type,capacity_tons
+V001,MH12AB0001,Truck,Diesel,10
+V002,MH12AB0002,Van,Diesel,2
+V003,MH12AB0003,Mini Truck,Petrol,5
+V004,MH12AB0004,Truck,Diesel,10
+V005,MH12AB0005,Van,Diesel,2
+V006,MH12AB0006,Mini Truck,Petrol,5
+V007,MH12AB0007,Truck,Diesel,10
+V008,MH12AB0008,Van,Diesel,2
+V009,MH12AB0009,Mini Truck,Petrol,5
+V010,MH12AB0010,Truck,Diesel,10
+V011,MH12AB0011,Van,Diesel,2
+V012,MH12AB0012,Mini Truck,Petrol,5
+V013,MH12AB0013,Truck,Diesel,10
+V014,MH12AB0014,Van,Diesel,2
+V015,MH12AB0015,Mini Truck,Petrol,5

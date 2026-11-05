@@ -1,0 +1,3 @@
+transformation,factor,status
+Miles to Kilometres,1.60934,"Applied to trip, fuel and maintenance odometers"
+Gallons to Litres,3.78541,Applied to fuel quantities

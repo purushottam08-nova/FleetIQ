@@ -1,0 +1,6 @@
+dataset,raw_records,clean_records,excluded_records,quality_percentage
+vehicles,15,15,0,100.0
+routes,6,6,0,100.0
+trips,180,178,2,98.89
+fuel_transactions,91,90,1,98.9
+maintenance,30,30,0,100.0
