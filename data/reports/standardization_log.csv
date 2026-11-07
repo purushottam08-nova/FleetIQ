@@ -1,3 +1,6 @@
-transformation,factor,status
-Miles to Kilometres,1.60934,"Applied to trip, fuel and maintenance odometers"
-Gallons to Litres,3.78541,Applied to fuel quantities
+dataset,column,source_unit,target_unit,conversion_factor,records_converted
+trips,distance_value,miles,km,1.60934,60
+trips,odometer_reading,miles,km,1.60934,45
+fuel_transactions,fuel_quantity,gallon,litre,3.78541,42
+fuel_transactions,odometer_reading,miles,km,1.60934,30
+maintenance,odometer_reading,miles,km,1.60934,15

@@ -1,0 +1,11 @@
+metric,value
+total_vehicles,15.0
+total_clean_trips,178.0
+valid_full_tank_intervals,75.0
+vehicles_with_efficiency_data,15.0
+total_distance_between_refills_km,58619.46
+total_fuel_litres_in_intervals,8845.28
+overall_fuel_efficiency_km_per_litre,6.63
+overall_fuel_cost_per_km,14.33
+total_maintenance_cost_inr,175829.0
+records_requiring_verification,2.0
