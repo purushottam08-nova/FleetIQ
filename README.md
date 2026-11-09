@@ -110,9 +110,9 @@ python tests/test_pipeline.py
 ## Development Roadmap
 
 - [x] Project initialization
-- [ ] Day 1: Data engineering and cleaning
-- [ ] Day 2: Fleet analytics and comparisons
-- [ ] Day 3: Interactive dashboard and finalization
+- [x] Day 1: Data engineering and cleaning
+- [x] Day 2: Fleet analytics and comparisons
+- [x] Day 3: Interactive dashboard and finalization
 
 ## Expected Outcome
 
