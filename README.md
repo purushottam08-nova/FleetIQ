@@ -1,5 +1,18 @@
 # FleetIQ
 
+# FleetIQ — Fleet Fuel Efficiency and Maintenance Decision Support
+
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Streamlit-red?logo=streamlit)](https://fleetiq-dashboard.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-Deployed-success)](https://fleetiq-dashboard.streamlit.app/)
+
+## 🚀 Live Demo
+
+**Explore FleetIQ here:** https://fleetiq-dashboard.streamlit.app/
+
+FleetIQ is a data engineering and analytics project that helps analyze fleet fuel efficiency, fuel expenditure, vehicle performance, and maintenance patterns through an interactive dashboard.
+
+
 ### Fleet Fuel Efficiency and Maintenance Decision Support System
 
 **FleetIQ** is a data engineering and visualization project designed to help logistics companies monitor vehicle fuel efficiency, operating costs, maintenance expenses, and data quality.
